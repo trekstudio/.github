@@ -1,9 +1,9 @@
-# 👋 Welcome to Stlk.me!
+# 👋 Welcome to Trek Studio!
 > We are just web warriors working to give a little back! 
 
 Click the button below to donate:
 
-[<img src="https://stlk.me/donate.svg" width="100" alt="donate"/>](https://stlk.me/donate)
+[<img src="https://trek.studio/donate.svg" width="100" alt="donate"/>](https://trek.studio/donate)
 
 Want to contribute? 
 
